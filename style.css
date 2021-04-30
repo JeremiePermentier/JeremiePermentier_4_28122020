@@ -12,7 +12,6 @@ a,button
 	transition: all .3s ease-in-out;
 	outline: none!important;
 }
-
 a:hover
 {
 	text-decoration: none;
@@ -298,6 +297,7 @@ a:hover
 .nav > li a:hover,.nav > li a:focus
 {
 	border: 1px solid #000000;
+	background-color: #fff;
 }
 
 .navbar-toggle
